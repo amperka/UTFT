@@ -8,7 +8,7 @@ UTFT
 
 Скачайте последний релиз библиотеки:
 
-<a class="btn btn-sm btn-primary" href="https://github.com/amperka/utft/releases/download/utft.zip">Скачать библиотеку UTFT </a>
+<a class="btn btn-sm btn-primary" href="https://github.com/amperka/utft/releases/download/v1.0/UTFT.zip">Скачать библиотеку UTFT </a>
 
 В Arduino IDE выберите пункт меню «Скетч» → «Импортировать библиотеку» →
 «Добавить библиотеку…». В появившемся окне выберите скачаный архив с
